@@ -1,0 +1,1 @@
+const receivesAFunction = callback => callback;
